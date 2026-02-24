@@ -1,7 +1,7 @@
 # spring-2026-assignment-tracker-dashboard
 
 Project Overview
-  Designed and built a structured assignment tracking system in Google Sheets to centralize workload management and monitor deadlines efficiently.
+  - Designed and built a structured assignment tracking system in Google Sheets to centralize workload management and monitor deadlines efficiently.
 
 Features
   - Automated status categorization (Completed, In Progress, Overdue)
